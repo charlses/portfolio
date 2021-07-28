@@ -27,9 +27,9 @@
 
   $contact->smtp = array(
     'host' => 'send.one.com',
-    'username' => 'davit@scriptify.se',
-    'password' => 'Dato_2000',
-    'port' => '587'
+    'username' => '',
+    'password' => '',
+    'port' => ''
   );
 
 
